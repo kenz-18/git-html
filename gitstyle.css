@@ -1,0 +1,22 @@
+header{
+  background-color: white;
+}
+main{
+  background-color: burlywood;
+}
+footer{
+  background-color: aquamarine
+}
+nav:hover{
+  color: rgb(6, 6, 161);
+  background-color:rgb(27, 221, 221);
+
+}
+p.words{
+  font-family: arial;
+  color: blueviolet;
+}
+h2{
+  font-family: arial;
+  color: blueviolet; 
+}
