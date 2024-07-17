@@ -1,8 +1,8 @@
 header{
-  background-color: white;
+  background-color: wheat;
 }
 main{
-  background-color: burlywood;
+  background-color: gray;
 }
 footer{
   background-color: aquamarine
@@ -10,15 +10,14 @@ footer{
 nav:hover{
   color: rgb(6, 6, 161);
   background-color:rgb(27, 221, 221);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: bold;
+  
 
 }
 p.words{
-  font-family: arial;
-  color: blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: gold ;
 }
 h2{
-  font-family: arial;
-  color: blueviolet; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  color: gold; 
 }
