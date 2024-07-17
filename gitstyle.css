@@ -10,6 +10,8 @@ footer{
 nav:hover{
   color: rgb(6, 6, 161);
   background-color:rgb(27, 221, 221);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
 
 }
 p.words{
